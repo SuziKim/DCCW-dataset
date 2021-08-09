@@ -12,6 +12,7 @@ We evaluate [DCCW](https://github.com/SuziKim/DCCW) using three different datase
 | [FM100P](FM100P/README.md) | Evaluation of the single palette sorting |
 | [KHTP](KHTP/README.md) | Evaluation of the palette pair sorting |
 | [LHSP](LHSP/README.md) | Evaluation of the palette similarity measurement |
+| [Perceptual Study](perceptual-study/README.md) | Perceptual Study |
 
 
 ## Publication
